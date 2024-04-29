@@ -1,10 +1,9 @@
-/* body{
-    min-width: 550px;
-} */
+
 
 body{
     min-width: 370px
 }
+
 /* MAIN  */
 div.jumbotron{
     background-color: #1abc9c;
