@@ -48,3 +48,15 @@ div.about h2{
     margin-top: 2rem;
     font-weight: 600;
 }
+
+button{
+    background-color: rgb(26, 188, 156);
+    color: white;
+    border: solid 1px white;
+    padding: 0.5rem 0.5rem;
+    font-weight: 600;
+}
+
+div.button{
+    border-radius: 5px;
+}
