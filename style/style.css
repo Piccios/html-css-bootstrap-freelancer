@@ -7,7 +7,7 @@ body{
 /* MAIN  */
 div.jumbotron{
     background-color: #1abc9c;
-    height: 530px;
+    /* height: 530px; */
     color: white;
 }
 
@@ -42,7 +42,7 @@ div.article{
 
 div.about{
     background-color: rgb(26, 188, 156);
-    height: 600px;
+    /* height: 600px; */
     color: white;
 }
 
