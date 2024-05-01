@@ -24,6 +24,10 @@ div.jumbotron h1{
     font-weight: bold;
 }
 
+img.rondd_3{
+    border-radius: 8%;
+}
+
 div.bar{
     margin: 1rem;
     width: 100px;
